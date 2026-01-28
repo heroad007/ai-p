@@ -195,7 +195,3 @@ timestamp = timestamp()
 # Call the main function
 if __name__ == "__main__":
     main()
-
-# Reference:
-# https://github.com/darshan-majithiya/Generate-SRT-File-using-Google-Cloud-s-Speech-to-Text-API
-# https://github.com/GoogleCloudPlatform/community/blob/master/tutorials/speech2srt/speech2srt.py
